@@ -1,3 +1,3 @@
-name = 'Nathan McMillan'
+name = 'Tyler Bartholomew'
 
 print(f'Hello, I am {name}')
